@@ -21,9 +21,7 @@ namespace FuncAppPoc.Topical
                 message = JsonConvert.DeserializeObject<ParaMessage>(messageBody, new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
 
                 log.LogInformation($"C# ServiceBus topic trigger function processed message: {message.Title}");
-            }
-
-           
+            }           
         }
     }
 }
