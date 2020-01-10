@@ -27,5 +27,20 @@ namespace UnitTests.ParagraphAnalyserTests
             Assert.AreEqual(result.MaxWordCount, 9);
             Assert.AreEqual(result.LongestSentence, "Long John Silver is a terrible man and prirate");
         }
+
+        /*
+        [TestCase("N", ExpectedResult = true)]
+        [TestCase("E", ExpectedResult = true)]
+        [TestCase("S", ExpectedResult = true)]
+        [TestCase("W", ExpectedResult = true)]
+        [TestCase("", ExpectedResult = false)]
+        [TestCase("Q", ExpectedResult = false)]
+        public bool TestValidCommand(string command)
+        {
+            var handler = new RobotHandler();
+
+            return handler.IsValidCommand(command);
+        }
+        */
     }
 }

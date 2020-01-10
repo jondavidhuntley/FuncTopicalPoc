@@ -1,0 +1,13 @@
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.deps.json
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.Domain.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.Domain.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\bin\Debug\netcoreapp2.1\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.csprojAssemblyReference.cache
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.AssemblyInfoInputs.cache
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.AssemblyInfo.cs
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.csproj.CopyComplete
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.ParagraphProcessor\obj\Debug\netcoreapp2.1\FuncAppPoc.ParagraphProcessor.pdb

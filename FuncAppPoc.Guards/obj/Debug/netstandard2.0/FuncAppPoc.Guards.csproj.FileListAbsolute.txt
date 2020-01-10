@@ -5,3 +5,4 @@ C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.AssemblyInfo.cs
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.csprojAssemblyReference.cache

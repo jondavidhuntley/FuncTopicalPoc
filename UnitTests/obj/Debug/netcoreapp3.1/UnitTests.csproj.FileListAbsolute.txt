@@ -98,7 +98,6 @@ C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncApp
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
