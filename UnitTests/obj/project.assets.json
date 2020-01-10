@@ -1442,11 +1442,24 @@
       "FuncAppPoc.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FuncAppPoc.Guards": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/FuncAppPoc.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/FuncAppPoc.Domain.dll": {}
+        }
+      },
+      "FuncAppPoc.Guards/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FuncAppPoc.Guards.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncAppPoc.Guards.dll": {}
         }
       }
     }
@@ -5215,6 +5228,11 @@
       "type": "project",
       "path": "../FuncAppPoc.Domain/FuncAppPoc.Domain.csproj",
       "msbuildProject": "../FuncAppPoc.Domain/FuncAppPoc.Domain.csproj"
+    },
+    "FuncAppPoc.Guards/1.0.0": {
+      "type": "project",
+      "path": "../FuncAppPoc.Guards/FuncAppPoc.Guards.csproj",
+      "msbuildProject": "../FuncAppPoc.Guards/FuncAppPoc.Guards.csproj"
     }
   },
   "projectFileDependencyGroups": {

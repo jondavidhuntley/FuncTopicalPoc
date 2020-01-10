@@ -93,3 +93,5 @@ C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTes
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.Guards.pdb

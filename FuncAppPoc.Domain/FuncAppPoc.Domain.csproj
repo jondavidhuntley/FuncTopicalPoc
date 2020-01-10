@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FuncAppPoc.Guards\FuncAppPoc.Guards.csproj" />
+  </ItemGroup>
+
 </Project>

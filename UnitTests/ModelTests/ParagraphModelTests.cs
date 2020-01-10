@@ -23,7 +23,7 @@ namespace UnitTests.ModelTests
                 Published = new DateTime(1722, 3, 23),
                 Author = "Robert Lewis Stephenson",
                 Type = BookType.Fiction,
-                Content = "Long John Silver is a terrible man and prirate. He wore a long black coat, parot and sword. He is very scary."                
+                Sample = "Long John Silver is a terrible man and prirate. He wore a long black coat, parot and sword. He is very scary."                
             };
 
             Assert.AreEqual(message.Year, 1722);            
@@ -38,7 +38,7 @@ namespace UnitTests.ModelTests
                 Published = new DateTime(1722, 3, 23),
                 Author = "Robert Lewis Stephenson",
                 Type = BookType.Fiction,
-                Content = "Long John Silver is a terrible man and prirate. He wore a long black coat, parot and sword. He is very scary."
+                Sample = "Long John Silver is a terrible man and prirate. He wore a long black coat, parot and sword. He is very scary."
             };
 
             var json = JsonConvert.SerializeObject(message, Formatting.Indented);
@@ -50,5 +50,22 @@ namespace UnitTests.ModelTests
             Assert.AreEqual(message.Created, deserialisedMessage.Created);
         }
 
+        [Test]
+        public void TestParagraphModelGuardTest()
+        {
+            var message = new ParaMessage("Treasure Island", "Robert L Stephenson");
+
+            message.Published = new DateTime(1722, 3, 23);
+            message.Type = BookType.Fiction;
+            message.Sample = "Some Sample";
+            
+            var json = JsonConvert.SerializeObject(message, Formatting.Indented);
+
+            var deserialisedMessage = JsonConvert.DeserializeObject<ParaMessage>(json);
+
+            Assert.AreEqual(message.Author, deserialisedMessage.Author);
+            Assert.AreEqual(message.Year, 1722);
+            Assert.AreEqual(message.Created, deserialisedMessage.Created);
+        }
     }
 }

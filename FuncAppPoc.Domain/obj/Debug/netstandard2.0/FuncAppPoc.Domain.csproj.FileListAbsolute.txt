@@ -1,8 +1,11 @@
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\bin\Debug\netstandard2.0\FuncAppPoc.Domain.deps.json
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\bin\Debug\netstandard2.0\FuncAppPoc.Domain.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\bin\Debug\netstandard2.0\FuncAppPoc.Domain.pdb
-C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.csprojAssemblyReference.cache
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.AssemblyInfoInputs.cache
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.AssemblyInfo.cs
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\bin\Debug\netstandard2.0\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\bin\Debug\netstandard2.0\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.csprojAssemblyReference.cache
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Domain\obj\Debug\netstandard2.0\FuncAppPoc.Domain.csproj.CopyComplete

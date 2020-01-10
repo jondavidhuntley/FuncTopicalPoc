@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "FuncAppPoc.Guards/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FuncAppPoc.Guards.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncAppPoc.Guards.dll": {}
+        }
       }
     }
   },
@@ -171,10 +181,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "FuncAppPoc.Guards/1.0.0": {
+      "type": "project",
+      "path": "../FuncAppPoc.Guards/FuncAppPoc.Guards.csproj",
+      "msbuildProject": "../FuncAppPoc.Guards/FuncAppPoc.Guards.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "FuncAppPoc.Guards >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonhu\\source\\repos\\FuncAppPoc\\FuncAppPoc.Guards\\FuncAppPoc.Guards.csproj": {
+              "projectPath": "C:\\Users\\jonhu\\source\\repos\\FuncAppPoc\\FuncAppPoc.Guards\\FuncAppPoc.Guards.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

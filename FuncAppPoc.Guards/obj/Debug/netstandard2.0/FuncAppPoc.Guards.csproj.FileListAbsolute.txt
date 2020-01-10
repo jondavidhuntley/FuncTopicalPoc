@@ -1,0 +1,8 @@
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\bin\Debug\netstandard2.0\FuncAppPoc.Guards.deps.json
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\bin\Debug\netstandard2.0\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\bin\Debug\netstandard2.0\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.AssemblyInfoInputs.cache
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.AssemblyInfo.cs
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guards\obj\Debug\netstandard2.0\FuncAppPoc.Guards.csprojAssemblyReference.cache

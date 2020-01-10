@@ -1,0 +1,7 @@
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\bin\Debug\netcoreapp2.1\FuncAppPoc.Guards.deps.json
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\bin\Debug\netcoreapp2.1\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\bin\Debug\netcoreapp2.1\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\obj\Debug\netcoreapp2.1\FuncAppPoc.Guards.AssemblyInfoInputs.cache
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\obj\Debug\netcoreapp2.1\FuncAppPoc.Guards.AssemblyInfo.cs
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\obj\Debug\netcoreapp2.1\FuncAppPoc.Guards.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\FuncAppPoc.Guard\obj\Debug\netcoreapp2.1\FuncAppPoc.Guards.pdb

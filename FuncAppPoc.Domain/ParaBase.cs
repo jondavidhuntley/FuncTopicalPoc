@@ -1,4 +1,5 @@
 ﻿using FuncAppPoc.Domain.Enum;
+using FuncAppPoc.Guards;
 using System;
 
 namespace FuncAppPoc.Domain
@@ -7,7 +8,27 @@ namespace FuncAppPoc.Domain
     /// Paragraph Base (Book)
     /// </summary>
     public abstract class ParaBase
-    {
+    {        
+        protected ParaBase()
+        {
+            Created = DateTime.Now;
+        }
+
+        /// <summary>
+        /// Contructor
+        /// </summary>
+        /// <param name="title"></param>
+        /// <param name="author"></param>
+        protected ParaBase(string title, string author)
+        {
+            Guard.AgainstNullOrWhitespace(title, nameof(title));
+            Guard.AgainstNullOrWhitespace(author, nameof(author));
+
+            Title = title;
+            Author = author;
+            Created = DateTime.Now;
+        }
+
         /// <summary>
         /// Year
         /// </summary>

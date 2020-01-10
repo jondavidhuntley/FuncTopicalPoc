@@ -1010,8 +1010,16 @@
         }
       },
       "FuncAppPoc.Domain/1.0.0": {
+        "dependencies": {
+          "FuncAppPoc.Guards": "1.0.0"
+        },
         "runtime": {
           "FuncAppPoc.Domain.dll": {}
+        }
+      },
+      "FuncAppPoc.Guards/1.0.0": {
+        "runtime": {
+          "FuncAppPoc.Guards.dll": {}
         }
       }
     }
@@ -1527,6 +1535,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "FuncAppPoc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncAppPoc.Guards/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

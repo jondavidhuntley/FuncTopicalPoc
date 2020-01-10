@@ -6,16 +6,21 @@ namespace FuncAppPoc.Domain.Model
 {
     public class ParaMessage : ParaBase
     {
-       
-        public ParaMessage()
-        {
-            Created = DateTime.Now;
+        public ParaMessage() { }
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="title"></param>
+        /// <param name="author"></param>
+        public ParaMessage(string title, string author) : base (title, author)
+        {            
         }
 
         /// <summary>
-        /// Paragraph Content
+        /// Paragraph Sample
         /// </summary>
-        public string Content { get; set; }       
+        public string Sample { get; set; }       
        
     }
 }
