@@ -28,7 +28,7 @@ namespace FuncAppPoc.Topical
         }
 
         [FunctionName("FuncParaProcessor")]
-        public static void Run([ServiceBusTrigger("hweb_poc_passage_published_topic", "hweb_sbus_subscription_passage_processor", Connection = "SASListener")]Message sbusMsg, ILogger log)
+        public static void Run([ServiceBusTrigger("hweb_poc_passage_published_topic2", "hweb_sbus_subscription_passage_processor", Connection = "SASListener")]Message sbusMsg, ILogger log)
         {
             try
             {
