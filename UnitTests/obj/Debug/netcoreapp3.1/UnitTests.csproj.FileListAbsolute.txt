@@ -95,3 +95,16 @@ C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTes
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.Guards.dll
 C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.Guards.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.ParagraphProcessor.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\FuncAppPoc.ParagraphProcessor.pdb
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\jonhu\source\repos\FuncAppPoc\UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
