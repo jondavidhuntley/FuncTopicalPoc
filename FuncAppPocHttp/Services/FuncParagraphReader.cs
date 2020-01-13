@@ -23,7 +23,9 @@ namespace FuncAppPocHttp
 
         [FunctionName("FuncParagraphReader")]
         public async Task<IActionResult> Run(
-            [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req,
+            [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = "FuncParagraphReader/{version}/")] 
+            HttpRequest req, 
+            string version,
             ILogger log)
         {
             log.LogInformation("C# HTTP trigger function processed a request.");            
